@@ -7,3 +7,5 @@ D
 contracts/event.clar,3/7/37a82faf40ca4503f145e8ea35b2a3fcdfaa4ef7
 C
 tests/event.test.ts,e/b/eb1486b08f36f4dbc4a0152c666e8793df3f5efa
+F
+contracts/betting.clar,a/d/adfa2d5c5ca8387413ecafeb8ed0efe858182285
