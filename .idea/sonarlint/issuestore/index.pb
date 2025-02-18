@@ -13,3 +13,5 @@ E
 tests/betting.test.ts,5/6/56051513df632ba537561a7862c3904687b6ccb1
 E
 contracts/oracle.clar,3/c/3cf19cce7726142cf924f7cdbd4ae79592f1f8fc
+D
+tests/oracle.test.ts,a/0/a01d33af3d01e43d4c5e519c62c3403f188dab8e
