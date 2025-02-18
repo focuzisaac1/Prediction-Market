@@ -15,3 +15,5 @@ E
 contracts/oracle.clar,3/c/3cf19cce7726142cf924f7cdbd4ae79592f1f8fc
 D
 tests/oracle.test.ts,a/0/a01d33af3d01e43d4c5e519c62c3403f188dab8e
+F
+contracts/payment.clar,c/7/c70a4dfe20b7cd73c09e2c248bd017b90e1a7446
